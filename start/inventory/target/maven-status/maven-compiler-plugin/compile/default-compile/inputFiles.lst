@@ -1,0 +1,5 @@
+/Users/fawazsiddiqi/Desktop/guide-microprofile-reactive-messaging/start/inventory/src/main/java/io/openliberty/guides/inventory/InventoryApplication.java
+/Users/fawazsiddiqi/Desktop/guide-microprofile-reactive-messaging/start/inventory/src/main/java/io/openliberty/guides/inventory/health/InventoryReadinessCheck.java
+/Users/fawazsiddiqi/Desktop/guide-microprofile-reactive-messaging/start/inventory/src/main/java/io/openliberty/guides/inventory/InventoryManager.java
+/Users/fawazsiddiqi/Desktop/guide-microprofile-reactive-messaging/start/inventory/src/main/java/io/openliberty/guides/inventory/health/InventoryLivenessCheck.java
+/Users/fawazsiddiqi/Desktop/guide-microprofile-reactive-messaging/start/inventory/src/main/java/io/openliberty/guides/inventory/InventoryResource.java
